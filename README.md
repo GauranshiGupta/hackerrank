@@ -1,2 +1,2 @@
 # hackerrank
-Solution to hackerrank problems
+Java Solutions to hackerrank problems
